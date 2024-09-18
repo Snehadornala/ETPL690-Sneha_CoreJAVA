@@ -1,6 +1,8 @@
 package com.evergent.corejava.javabeans;
 
-ublic class Employee implements Serializable {
+import java.io.Serializable;
+
+public class Employee implements Serializable {
 
 	private int eno;
 
